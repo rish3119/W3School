@@ -15,5 +15,5 @@ int main() {
       cout << "Initials: " << firstName[0] << lastName[0] << endl;
 
     // Print results
-    return 0;
+    retRishavurn 0;
 }
